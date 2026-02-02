@@ -7,21 +7,30 @@ The analysis of hotel booking cancellations as well as other factors that have n
 <h3>Assumptions</h3> 
 1.	No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used. 
 <br>
-2.	The information is still current and can be used to analyze a hotel’s possible plans in an efficient manner. 
+2.	The information is still current and can be used to analyze a hotel’s possible plans in an efficient manner.
+<br>
 3.	There are no unanticipated negatives to the hotel employing any advised technique. 
+<br>
 4.	The hotels are not currently using any of the suggested solutions. 
+<br>
 5.	The biggest factor affecting the effectiveness of earning income is booking cancellations. 
+<br>
 6.	Cancellations result in vacant rooms for the booked length of time. 
+<br>
 7.	Clients make hotel reservations the same year they make cancellations. 
 
 <h3>Research Question</h3>
 1.	What are the variables that affect hotel reservation cancellations? 
+<br>
 2.	How can we make hotel reservations cancellations better? 
+<br>
 3.	How will hotels be assisted in making pricing and promotional decisions? 
 
 <h3>Hypothesis</h3>
 1.	More cancellations occur when prices are higher. 
+<br>
 2.	When there is a longer waiting list, customers tend to cancel more frequently. 
+<br>
 3.	The majority of clients are coming from offline travel agents to make their reservations. 
 
 <h3>Analysis and Findings</h3>
@@ -45,6 +54,7 @@ We have developed the ground bar graph to analyze the months with the highest an
 <img width="535" height="304" alt="Screenshot 2026-02-02 190238" src="https://github.com/user-attachments/assets/bfc0413c-9308-43e3-80e2-79b056759427" />
 
 This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation. 
+<br>
 Now, let’s see which country has the highest reservation cancelled. The top country is Portugal with the highest number of cancellations. 
 
 <img width="439" height="452" alt="Screenshot 2026-02-02 190606" src="https://github.com/user-attachments/assets/b6831085-b3fd-4145-90f3-d360e51c5f94" />
@@ -57,8 +67,11 @@ As seen in the graph, reservations are cancelled when the average daily rate is 
 
 <h3>Suggestions</h3>
 1.	Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers. 
+<br>
 2.	As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices in weekends or on holidays. 
-3.	In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month. 
+<br>
+3.	In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
+<br>
 4.	They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate. 
 
 
